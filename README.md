@@ -1,1 +1,2 @@
-# c3devweb
+O TypeScript nos permite identificar, por meio de declaração, o tipo de variável que está sendo guardada, isso facilita a escrita do código e trás mais escalabilidade. A declaração do tipo da variável nos permite idenficiar problemas e erros durante a compilação, trazendo mais otimização durante o desenvolvimento. 
+A semelhança entre o TypeScript e o JavaScript é notória, principalmente ao tiparmos as variáveis, e também, por serem semelhantes, o JavaScript nos permite converter o código diretamente para o TypeScript. 
